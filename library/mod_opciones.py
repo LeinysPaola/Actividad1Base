@@ -1,4 +1,5 @@
 from mod_numero_perfecto import *
+from mod_funcion_exponencial import *
 
 def opciones():
     op = 0
@@ -12,3 +13,5 @@ def opciones():
  
     if(op == 3):
         punto3()
+    if(op == 4):
+        punto4()
