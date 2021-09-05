@@ -1,6 +1,6 @@
 from mod_numero_perfecto import *
 from mod_funcion_exponencial import *
-
+from mod_numero_primo import *
 def opciones():
     op = 0
     while(op < 1 or op > 4):
