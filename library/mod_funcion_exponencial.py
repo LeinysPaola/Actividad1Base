@@ -1,10 +1,12 @@
-#OPCION 4
+#OPCION 444
 def factorial(num):
     i = 0
     valor = 1
     for i in range(1, num +1):
         valor = valor * i
     return valor
+
+
 
 
 
