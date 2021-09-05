@@ -1,4 +1,4 @@
-from library.mod_numero_primo import punto2
+from library.mod_numero_primo import *
 from library.mod_funcion_exponencial import *
 from library.mod_numero_perfecto import *
 from library.mod_numero_primo import *
