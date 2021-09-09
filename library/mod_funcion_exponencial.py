@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #OPCION 444
 def factorial(num):
     i = 0
@@ -31,3 +32,36 @@ def punto4():
         
 
         
+=======
+#OPCION 4
+def factorial(num):
+    i = 0
+    valor = 1
+    for i in range(1, num +1):
+        valor = valor * i
+    return valor
+
+
+
+def punto4():
+
+    print("Para calcular la funcion exponencial se tomara n = 50 como constante")
+    numero = int(input("Escriba cualquier numero para darle valor a x: "))
+
+    valor = 0;
+    for i in range(1,6):
+
+        if(i == 1):
+            contenedor = 1 + numero
+        if(i > 1):
+            contenedor = contenedor + ((numero**i)/(factorial(i)))
+            
+    
+    return print("Contiene final: ", contenedor)
+
+
+
+        
+
+        
+>>>>>>> Stashed changes
