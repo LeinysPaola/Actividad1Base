@@ -15,8 +15,7 @@ def opciones():
         print("4............Calcule una funcion exponencial.")
         print("")
         op = int(input("Que opcion elijes: "))
-        print("")
-        op = int(input("Que opcion elijes: "))
+        
 
         if(op < 1 or op > 4):
             print("Por favor elija una opcion entre 1 y 4")
