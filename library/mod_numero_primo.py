@@ -5,10 +5,13 @@ def punto2():
     i = 1
     comprobar = 0;
 
-    while(i < numero):
+    while(i <= numero):
         if(numero%i == 0):
+            print(i)
             comprobar = comprobar + 1
         i = i +1
+
+    print(comprobar)
 
     if comprobar <= 2:
         return print("Este numero es primo!!")
