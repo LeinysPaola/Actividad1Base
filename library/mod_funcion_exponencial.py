@@ -16,7 +16,7 @@ def punto4():
     numero = int(input("Escriba cualquier numero para darle valor a x: "))
 
     valor = 0;
-    for i in range(1,3):
+    for i in range(1,51):
 
         if(i == 1):
             contenedor = 1 + numero
@@ -24,7 +24,7 @@ def punto4():
             contenedor = contenedor + ((numero**i)/(factorial(i)))
             
     
-    return print("Resouesta: ", contenedor)
+    return print("Respuesta: ", contenedor)
 
 
 
