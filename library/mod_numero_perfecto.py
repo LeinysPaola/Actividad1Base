@@ -1,4 +1,4 @@
-        #Punto 3
+        #Punto 3 YILBERTH ANDRES
 def punto3():
     numero = int(input("Escriba cualquier numero para determinar si es numero perfecto: "));
 

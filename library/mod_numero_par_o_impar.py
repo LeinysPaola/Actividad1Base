@@ -1,4 +1,4 @@
-# punto1 
+# punto1 LEINYS
   
 def punto1():
     numero = int (input("digite un numero para saber si es par o impar: ")) 

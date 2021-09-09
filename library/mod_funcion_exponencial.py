@@ -1,4 +1,4 @@
-#OPCION 4
+#OPCION 4 YILBERTH ANDRES
 def factorial(num):
     i = 0
     valor = 1

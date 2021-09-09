@@ -1,3 +1,4 @@
+#OPCIONES
 from library.mod_numero_primo import *
 from library.mod_funcion_exponencial import *
 from library.mod_numero_perfecto import *

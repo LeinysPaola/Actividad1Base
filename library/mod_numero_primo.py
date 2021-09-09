@@ -1,4 +1,4 @@
-   #PUNTO 2
+   #PUNTO 2 ISRAEL
 def punto2():
 
     numero = int(input("Escriba cualquier numero para determinar si es primo: "));
