@@ -10,11 +10,11 @@ def opciones():
         print("")
         print("")
         print("1............Ver si un numero es par o impar.")
-        print("2............Ver si un numero si es primo o no.")
-        print("3............Ver si un numero si un numero es perfecto.")
+        print("2............Ver si un numero es primo o no.")
+        print("3............Ver si un numero  es perfecto.")
         print("4............Calcule una funcion exponencial.")
         print("")
-        op = int(input("Que opcion elijes: "))
+        op = int(input("Que opcion elijes: ")) 
         
 
         if(op < 1 or op > 4):
