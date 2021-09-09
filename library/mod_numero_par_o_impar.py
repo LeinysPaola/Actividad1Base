@@ -8,7 +8,8 @@ def punto1():
         return print("Este numero es par!")
 
     else:
-        return print("Este numero es impar! ")    
+        return print("Este numero es impar! ")   
+         
 
       
 
