@@ -1,6 +1,6 @@
 from library.mod_opciones import *
         
-
+        
 def inicio():
     opciones()
  
