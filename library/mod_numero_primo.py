@@ -14,3 +14,4 @@ def punto2():
         return print("Este numero es primo!!")
     else:
         return print("Este numero no es primo!!")
+        
